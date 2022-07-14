@@ -24,7 +24,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ontraccr.clipboardtest",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
